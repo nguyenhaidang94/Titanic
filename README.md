@@ -1,1 +1,1 @@
-# titanic
+# Kaggle competition Titanic
